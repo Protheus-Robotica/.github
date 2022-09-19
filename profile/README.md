@@ -6,7 +6,7 @@ Equipe de robótica do Instituto Federal de Pernambuco - Campus Caruaru
 
 Áreas de foco de pesquisas, extensões e ensino:
 - Lego Mindstorms aplicados no ensino <img alt="Logo Lego" title="Lego" src="../assets/lego.svg" style="height: 20px; width: 20px; float: left"/>
-- Controle com microcontroladores <img alt="Logo Arduino" title="Arduino" src="../assets/a.png" style="height: 19px; float: left"/>
+- Controle com microcontroladores <img alt="Logo Arduino" title="Arduino" src="../assets/arduino.png" style="height: 19px; float: left"/>
 
 <br>
 
