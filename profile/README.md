@@ -11,5 +11,5 @@ Equipe de robótica do Instituto Federal de Pernambuco - Campus Caruaru
 <br>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:equipeprotheus@gmail.com)](mailto:equipeprotheus@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ifpeopensource/)](https://www.instagram.com/ifpeopensource/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/equipeprotheus/)](https://www.instagram.com/equipeprotheus/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/equipeprotheus/)
